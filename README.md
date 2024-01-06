@@ -1,4 +1,4 @@
-### Hi, I'm Francis! 
+### Hi, I'm John Francis! 
 
  🔭 Software Developer (Full-Stack) and eager to learn more skills. <br/>
  🌱 Studied Computer Engineering at University of Santo Tomas (UST) - Legazpi <br/>
