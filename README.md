@@ -6,5 +6,9 @@
  🤔 Currently learning more about Python, ML, and AI API's <br/>
  💬 You can view my Portfolio [Constructing] <br/>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/johnfrancistm?label=Twitter%20&style=social)
+
+
+
 ![Francis GitHub Stats](https://github-readme-stats.vercel.app/api?username=fraanciisq&show_icons=true&theme=radical)
 
