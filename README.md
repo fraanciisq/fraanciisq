@@ -4,6 +4,7 @@
  📖 Studied Computer Engineering at University of Santo Tomas (UST) - Legazpi <br/>
  📲 I make Progressive Web Apps (PWA's), Websites, Native Apps, and SaaS Systems. <br/>
  🤔 Currently learning more about .NET, Swift, Python, ML, GSAP and MERN Stack <br/>
+ 🎯 Studying for Project Management Skills <br/>
  💬 You can view my (Tentative) Portfolio [www.johnfrancistm.tech] <br/>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnfrancistm?label=Twitter%20&style=social)
