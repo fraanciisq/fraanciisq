@@ -5,7 +5,7 @@
  📲 I make Progressive Web Apps (PWA's), Websites, Native Apps, and SaaS Systems. <br/>
  🤔 Currently learning more about .NET, Swift, Python, ML, GSAP and MERN Stack <br/>
  🎯 Studying for Project Management Skills (Agile Methodology) <br/>
- 💬 You can view my (Tentative) Portfolio [www.johnfrancistm.tech] <br/>
+ 💬 You can view my (Tentative) Creative Portfolio [www.johnfrancistm.tech] <br/>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnfrancistm?label=Twitter%20&style=social)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/john-francis-tamondong-866055232/)
