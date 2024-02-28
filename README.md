@@ -17,6 +17,7 @@
 
 <hr/>
 Have worked in: 
+
 <p>
 
 <img alt="React" src="https://img.shields.io/badge/React-61 DAFB? logo=react & logoColor-white&style=flat" />
