@@ -39,6 +39,7 @@
 **Operating System familiar with:**
 <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo-macos &logoColor=white&style=flat" />
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows &logoColor=white&style=flat" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux &logoColor=black&style=flat" />
 </p>
 
 ![Francis GitHub Stats](https://github-readme-stats.vercel.app/api?username=fraanciisq&theme=merko&show_icons=true)
