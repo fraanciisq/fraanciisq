@@ -17,5 +17,5 @@
 
 
 
-![Francis GitHub Stats](https://github-readme-stats.vercel.app/api?username=fraanciisq&theme=shadow_green&show_icons=true)
+![Francis GitHub Stats](https://github-readme-stats.vercel.app/api?username=fraanciisq&theme=transparent&show_icons=true)
 
