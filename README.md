@@ -16,10 +16,9 @@
 
 
 <hr/>
-Have worked in: 
 
+**Have worked in**
 <p>
-
 <img alt="React" src="https://img.shields.io/badge/React-61 DAFB? logo=react & logoColor-white&style=flat" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E? logo=javascript &logoColor=white&style=flat" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript &logoColor=white&style=flat" />
