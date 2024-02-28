@@ -16,7 +16,8 @@
 
 
 <hr/>
-Have worked in: <p>
+Have worked in: 
+<p>
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo-angular&logoColor-white&style=flat" />
 <img alt="React" src="https://img.shields.io/badge/React-61 DAFB? logo=react & logoColor-white&style=flat" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E? logo=javascript &logoColor=white&style=flat" />
@@ -25,8 +26,16 @@ Have worked in: <p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo-html5&logoColor=white&style=flat" />
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo-postgresql&logoColor-white&style=flat" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo-mongodb & logoColor-white&style=flat" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo-microsoft+sql+server & logoColor=white&style=flat" /> </p>
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" /> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" /> <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" /> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon+aws&logoColor=white&style=flat" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" /> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" /> </p>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo-mongodb & logoColor-white&style=flat" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo-microsoft+sql+server & logoColor=white&style=flat" /> 
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" />
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" /> 
+ <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat" /> 
+ <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" />
+ <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon+aws&logoColor=white&style=flat" /> 
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" /> 
+ <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat" /> 
+ <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" /> 
+ </p>
 
 **Version Control and Development tools used:**
 <p>
