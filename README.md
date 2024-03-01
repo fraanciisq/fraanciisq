@@ -52,6 +52,7 @@
 <img alt="Visual Studio Code"src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo-visual+studio+code & logoColor-white&style=flat" /> </p>
 
 **Operating System familiar with:**
+%nbsp
 <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo-macos &logoColor=white&style=flat" />
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows &logoColor=white&style=flat" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux &logoColor=black&style=flat" />
