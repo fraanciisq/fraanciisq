@@ -3,7 +3,7 @@
  💻 Software Developer (Full-Stack) and eager to learn more skills and become a Software Engineer. <br/>
  📖 Studied Computer Engineering at University of Santo Tomas (UST) - Legazpi. <br/>
  📲 I make Progressive Web Apps (PWA's), Websites, Native Apps, and SaaS, SAP / ERP Systems. <br/>
- 🤔 Currently learning more about .NET, Swift, Python, ML, GSAP and MERN Stack. <br/>
+ 🤔 Currently learning more about Laravel MVC, Swift, Python, ML, GSAP and MERN Stack. <br/>
  🎯 Studying for Project Management Skills (Agile Methodology) <br/>
  💬 You can view my (Tentative) Creative Portfolio [www.johnfrancistm.tech] <br/>
 
