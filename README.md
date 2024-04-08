@@ -20,12 +20,12 @@
 **Have worked in:**
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-61 DAFB? logo=react & logoColor-white&style=flat" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E? logo=javascript &logoColor=white&style=flat" />
+<!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E? logo=javascript &logoColor=white&style=flat" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript &logoColor=white&style=flat" />
-<img alt="TypeScript" src="https://img.shields.io/badge/Node.js-339933?logo=node.js &logoColor-white&style=flat" />
+<img alt="TypeScript" src="https://img.shields.io/badge/Node.js-339933?logo=node.js &logoColor-white&style=flat" /> -->
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo-html5&logoColor=white&style=flat" />
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo-angular&logoColor-white&style=flat" />
+<!-- <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo-angular&logoColor-white&style=flat" /> -->
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" /> 
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat" /> 
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" />
