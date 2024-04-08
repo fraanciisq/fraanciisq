@@ -36,26 +36,26 @@
  **Database and Cloud Technology used:**
 <p>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" /> 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo-postgresql&logoColor-white&style=flat" />
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat" /> 
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo-mongodb & logoColor-white&style=flat" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo-microsoft+sql+server & logoColor=white&style=flat" /> 
+<!-- <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo-postgresql&logoColor-white&style=flat" /> -->
+<!-- <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat" /> 
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo-mongodb & logoColor-white&style=flat" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo-microsoft+sql+server & logoColor=white&style=flat" />  -->
 <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon+aws&logoColor=white&style=flat" /> 
-
+<!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon+aws&logoColor=white&style=flat" /> 
+ -->
 </p>
  
 **Version Control and Development tools used:**
 <p>
 <img alt="Git"src="https://img.shields.io/badge/Git-F05032?logo=git & logoColor-white&style=flat" />
 <img alt="GitHub"src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-<img alt="Azure Devops"src="https://img.shields.io/badge/Azure DevOps-0078D7?logo-azure+devops &logoColor=-white&style=flat" /> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor-white&style=flat" />
+<!-- <img alt="Azure Devops"src="https://img.shields.io/badge/Azure DevOps-0078D7?logo-azure+devops &logoColor=-white&style=flat" /> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor-white&style=flat" /> -->
 <img alt="Visual Studio Code"src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo-visual+studio+code & logoColor-white&style=flat" /> </p>
 
 **Operating System familiar with:**
 <p>
-<img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo-macos &logoColor=white&style=flat" />
+<!-- <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo-macos &logoColor=white&style=flat" /> -->
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows &logoColor=white&style=flat" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux &logoColor=black&style=flat" />
+<!-- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux &logoColor=black&style=flat" /> -->
 </p>
 </p>
 
