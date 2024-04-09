@@ -1,6 +1,6 @@
-<div style="text-align: center">
+
 ### Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm John Francis! 
-</div>
+
 
  💻 Software Developer (Full-Stack) and eager to learn more skills and become a Software Engineer. <br/>
  📖 Studied Computer Engineering at University of Santo Tomas (UST) - Legazpi. <br/>
