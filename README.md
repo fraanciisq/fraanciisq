@@ -1,3 +1,5 @@
+<div style="text-align: center">
+
 ### Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm John Francis! 
 
  💻 Software Developer (Full-Stack) and eager to learn more skills and become a Software Engineer. <br/>
@@ -6,6 +8,8 @@
  🤔 Currently learning more about PHP, LiveWire, Swift, Python, ML, GSAP and MERN Stack. <br/>
  🎯 Studying for Project Management Skills (Agile Methodology) <br/>
  💬 You can view my (Tentative) Creative Portfolio [www.johnfrancistm.tech] <br/>
+
+ </div>
 
 <hr/> <i>Connect with me </i> <br/> &nbsp
 
