@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div style="text-align: center;">
 
 ### Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm John Francis! 
 
