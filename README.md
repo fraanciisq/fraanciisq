@@ -1,14 +1,18 @@
-<div style="text-align: center;">
-    ### Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm John Francis! 
+### Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm John Francis! 
 
-    💻 Software Developer (Full-Stack) and eager to learn more skills and become a Software Engineer. <br/>
-    📖 Studied Computer Engineering at University of Santo Tomas (UST) - Legazpi. <br/>
-    📲 I make Progressive Web Apps (PWA's), Websites, Native Apps, and SaaS, SAP / ERP Systems. <br/>
-    🤔 Currently learning more about PHP, LiveWire, Swift, Python, ML, GSAP and MERN Stack. <br/>
-    🎯 Studying for Project Management Skills (Agile Methodology) <br/>
-    💬 You can view my (Tentative) Creative Portfolio [www.johnfrancistm.tech] <br/>
-</div>
+ 💻 Software Developer (Full-Stack) and eager to learn more skills and become a Software Engineer. <br/>
+ 📖 Studied Computer Engineering at University of Santo Tomas (UST) - Legazpi. <br/>
+ 📲 I make Progressive Web Apps (PWA's), Websites, Native Apps, and SaaS, SAP / ERP Systems. <br/>
+ 🤔 Currently learning more about PHP, LiveWire, Swift, Python, ML, GSAP and MERN Stack. <br/>
+ 🎯 Studying for Project Management Skills (Agile Methodology) <br/>
+ 💬 You can view my (Tentative) Creative Portfolio [www.johnfrancistm.tech] <br/>
 
+ 💻 Software Developer (Full-Stack) and eager to learn more skills and become a Software Engineer. <br/>
+ 📖 Studied Computer Engineering at University of Santo Tomas (UST) - Legazpi. <br/>
+ 📲 I make Progressive Web Apps (PWA's), Websites, Native Apps, and SaaS, SAP / ERP Systems. <br/>
+ 🤔 Currently learning more about PHP, LiveWire, Swift, Python, ML, GSAP and MERN Stack. <br/>
+ 🎯 Studying for Project Management Skills (Agile Methodology) <br/>
+ 💬 You can view my (Tentative) Creative Portfolio [www.johnfrancistm.tech] <br/>
 
 <hr/> <i>Connect with me </i> <br/> &nbsp
 
