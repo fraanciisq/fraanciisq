@@ -5,7 +5,7 @@
  📖 Studied Computer Engineering at University of Santo Tomas (UST) - Legazpi. <br/>
  📲 I make Progressive Web Apps (PWA's), Websites, Native Apps, and SaaS, SAP / ERP Systems. <br/>
  🤔 Currently learning more about PHP, LiveWire, Swift, Python, ML, GSAP and MERN Stack. <br/>
- 🎯 Studying for Project Management Skills (Agile Methodology) and (Scrum) <br/>
+ 🎯 Studying for Project Management Skills (Agile Methodology) and (Scrum Methods) <br/>
  💬 You can view my (Tentative) Creative Portfolio [www.johnfrancistm.tech] <br/>
 
 <hr/> <i>Connect with me </i> <br/> &nbsp
