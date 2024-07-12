@@ -6,7 +6,7 @@
  📲 I make Progressive Web Apps (PWA's), Websites, Native Apps, and SaaS Systems. <br/>
  🤔 Currently learning more about PHP, Tailwind, LiveWire, Swift, Python, ML, Web3, Arweave/AO, GSAP and MERN Stack. <br/>
  🎯 Studying for Project Management Skills (Agile Methodology) and (Scrum Framework). <br/>
- 💬 You can view my Portfolio here [https://francistm-portfolio.vercel.app/] <br/>
+ 💬 You can view my Portfolio at [https://francistm-portfolio.vercel.app/] <br/>
 
 <hr/> <i>Connect with me </i> <br/> &nbsp
 
