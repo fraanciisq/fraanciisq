@@ -8,7 +8,7 @@
  🎯 Studying for Project Management Skills (Agile Methodology) and (Scrum Framework). <br/>
  💬 You can check my Portfolio at [https://francistm-portfolio.vercel.app/] <br/>
     
-<hr/> <i>Connect with ume  </i> <br/> &nbsp
+<hr/> <i>Connect with me  </i> <br/> &nbsp
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johnfrancistm?label=Twitter%20&style=social)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/john-francis-tamondong-866055232/)
