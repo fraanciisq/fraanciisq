@@ -6,7 +6,7 @@
 
 ---
 
-🧠 **About Me**  
+ **About Me**  
 Hi! I'm Francis, a passionate and driven **AI Engineer** with a strong focus on **AI automation** and **Retrieval-Augmented Generation (RAG)** system development.  
 Leveraging tools like **DeepSeek**, **n8n**, **LangChain**, **Supabase**, and **MongoDB Atlas**, I design intelligent solutions that blend cutting-edge AI with scalable automation workflows.
 
