@@ -15,7 +15,7 @@ With a solid foundation in **software and system development**, I’ve expanded 
 Every project I take on is driven by **innovation**, **precision**, and a desire to **transform industries** through the power of AI.  
 My mission is to create automation that not only streamlines workflows but also inspires the **next wave of intelligent systems**.
 
-💬 You can check my **Portfolio** at [https://francistm-portfolio.vercel.app/](https://francistm-portfolio.vercel.app/)  
+// 💬 You can check my **Portfolio** at [https://francistm-portfolio.vercel.app/](https://francistm-portfolio.vercel.app/)  
 📫 Feel free to connect with me — I’m always open to collaborations and conversations around AI, automation, and emerging technologies.
 
 ---
