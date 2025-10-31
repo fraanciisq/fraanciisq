@@ -16,7 +16,7 @@ Every project I take on is driven by **innovation**, **precision**, and a desire
 My mission is to create automation that not only streamlines workflows but also inspires the **next wave of intelligent systems**.
 
 
-📫 Feel free to connect with me — I’m always open to collaborations and conversations around AI, automation, and emerging technologies.
+📫 Feel free to connect with me — I’m always open to collaborations and topics around AI, automation, and emerging technologies.
 
 ---
 
