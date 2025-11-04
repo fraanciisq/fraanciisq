@@ -1,6 +1,6 @@
 ### Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Francis! 
 
-💡 **AI Engineer | Automation Specialist | Enterprise Architect |Full-Stack Python Developer**  
+💡 **AI Engineer | Automation Specialist and Enterprise Architect | Full-Stack Python Developer**  
 🎓 Graduated in **Computer Engineering (2024)** from the **University of Santo Tomas – Legazpi**  
 🚀 Passionate about building **AI-powered systems**, **RAG pipelines**, and **intelligent automation workflows**  
 
